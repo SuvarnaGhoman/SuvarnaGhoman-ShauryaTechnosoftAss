@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lzhtfR5lpXC8i51EoCh2dDXnF4CIS+qOugjcqzaSgVslMS/W6Zj7uSTnFhAI7XuF5NeGcE8dKE8JeWZBi3y3+w==",
+  "success": true,
+  "projectFilePath": "D:\\Suvarna\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

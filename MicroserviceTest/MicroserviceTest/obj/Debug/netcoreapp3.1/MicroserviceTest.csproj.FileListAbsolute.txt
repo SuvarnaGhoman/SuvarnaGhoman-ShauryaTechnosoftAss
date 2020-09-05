@@ -1,0 +1,9 @@
+D:\Suvarna\MicroserviceTest\MicroserviceTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Suvarna\MicroserviceTest\MicroserviceTest\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Suvarna\MicroserviceTest\MicroserviceTest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Suvarna\MicroserviceTest\MicroserviceTest\obj\Debug\netcoreapp3.1\MicroserviceTest.csprojAssemblyReference.cache
+D:\Suvarna\MicroserviceTest\MicroserviceTest\obj\Debug\netcoreapp3.1\MicroserviceTest.AssemblyInfoInputs.cache
+D:\Suvarna\MicroserviceTest\MicroserviceTest\obj\Debug\netcoreapp3.1\MicroserviceTest.AssemblyInfo.cs
+D:\Suvarna\MicroserviceTest\MicroserviceTest\obj\Debug\netcoreapp3.1\MicroserviceTest.RazorTargetAssemblyInfo.cache
+D:\Suvarna\MicroserviceTest\MicroserviceTest\obj\Debug\netcoreapp3.1\staticwebassets\MicroserviceTest.StaticWebAssets.Manifest.cache
+D:\Suvarna\MicroserviceTest\MicroserviceTest\obj\Debug\netcoreapp3.1\staticwebassets\MicroserviceTest.StaticWebAssets.xml

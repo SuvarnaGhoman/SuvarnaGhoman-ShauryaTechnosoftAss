@@ -1,0 +1,14 @@
+D:\Suvarna\VehicleTrackingBL\bin\Debug\netstandard2.0\VehicleTrackingBL.deps.json
+D:\Suvarna\VehicleTrackingBL\bin\Debug\netstandard2.0\VehicleTrackingBL.dll
+D:\Suvarna\VehicleTrackingBL\bin\Debug\netstandard2.0\VehicleTrackingBL.pdb
+D:\Suvarna\VehicleTrackingBL\bin\Debug\netstandard2.0\Model.dll
+D:\Suvarna\VehicleTrackingBL\bin\Debug\netstandard2.0\VehicleTrackingDAL.dll
+D:\Suvarna\VehicleTrackingBL\bin\Debug\netstandard2.0\Model.pdb
+D:\Suvarna\VehicleTrackingBL\bin\Debug\netstandard2.0\VehicleTrackingDAL.pdb
+D:\Suvarna\VehicleTrackingBL\obj\Debug\netstandard2.0\VehicleTrackingBL.csprojAssemblyReference.cache
+D:\Suvarna\VehicleTrackingBL\obj\Debug\netstandard2.0\VehicleTrackingBL.AssemblyInfoInputs.cache
+D:\Suvarna\VehicleTrackingBL\obj\Debug\netstandard2.0\VehicleTrackingBL.AssemblyInfo.cs
+D:\Suvarna\VehicleTrackingBL\obj\Debug\netstandard2.0\VehicleTrackingBL.csproj.CoreCompileInputs.cache
+D:\Suvarna\VehicleTrackingBL\obj\Debug\netstandard2.0\VehicleTrackingBL.csproj.CopyComplete
+D:\Suvarna\VehicleTrackingBL\obj\Debug\netstandard2.0\VehicleTrackingBL.dll
+D:\Suvarna\VehicleTrackingBL\obj\Debug\netstandard2.0\VehicleTrackingBL.pdb

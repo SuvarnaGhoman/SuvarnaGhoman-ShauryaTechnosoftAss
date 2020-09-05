@@ -1,0 +1,14 @@
+D:\Suvarna\BL\bin\Debug\netstandard2.0\BL.deps.json
+D:\Suvarna\BL\bin\Debug\netstandard2.0\BL.dll
+D:\Suvarna\BL\bin\Debug\netstandard2.0\BL.pdb
+D:\Suvarna\BL\bin\Debug\netstandard2.0\DL.dll
+D:\Suvarna\BL\bin\Debug\netstandard2.0\Models.dll
+D:\Suvarna\BL\bin\Debug\netstandard2.0\DL.pdb
+D:\Suvarna\BL\bin\Debug\netstandard2.0\Models.pdb
+D:\Suvarna\BL\obj\Debug\netstandard2.0\BL.csprojAssemblyReference.cache
+D:\Suvarna\BL\obj\Debug\netstandard2.0\BL.AssemblyInfoInputs.cache
+D:\Suvarna\BL\obj\Debug\netstandard2.0\BL.AssemblyInfo.cs
+D:\Suvarna\BL\obj\Debug\netstandard2.0\BL.csproj.CoreCompileInputs.cache
+D:\Suvarna\BL\obj\Debug\netstandard2.0\BL.csproj.CopyComplete
+D:\Suvarna\BL\obj\Debug\netstandard2.0\BL.dll
+D:\Suvarna\BL\obj\Debug\netstandard2.0\BL.pdb
